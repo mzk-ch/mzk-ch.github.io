@@ -4,7 +4,7 @@ I created a website for my childhood memories. When I was in the second grade of
 
 ## 闺蜜用语
 
-我创了我的少心屋网点。二级时，我习会于中国造访世界网络。呾时于Google Play取了很多有趣软件。只今皆体消亡，<span style="display: inline-block; position: relative; width: 1em; height: 1em; top: -0.4em; left: -0.13em;"><span style="position: absolute; left: -0.19em; transform: scale(0.28, 0.9); font-weight: bold;">口</span><span style="position: absolute; left: 0.24em; transform: scale(0.6, 1);">夹</span></span>我払愿散去云霄。
+我创了我的少心屋网点。二级时，我习会于中国造访世界网络。呾时于Google Play取了很多有趣软件。只今皆体消亡，<span style="display: inline-block; position: relative; width: 1em; height: 1em; top: -0.1em; left: -0.1em;"><span style="position: absolute; left: -0.19em; transform: scale(0.28, 0.9); font-weight: bold;">口</span><span style="position: absolute; left: 0.24em; transform: scale(0.6, 1);">夹</span></span>我払愿散去云霄。
 
 ## 简体中文
 
