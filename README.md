@@ -1,3 +1,5 @@
+>! 自`6日9月2025年`起，所有水木系软体（包含网页、PC和移动端App等）将不再提供简中支持。将提供古米优语和英语两个基本语言。
+
 ## English
 
 I created a website for my childhood memories. When I was in the second grade of primary school, I learned how to access the international internet in China. At that time, I downloaded many interesting apps from Google Play, and had some fun experiences. Now they no longer exist, but I want to bring them back…
